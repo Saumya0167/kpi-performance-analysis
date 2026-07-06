@@ -14,6 +14,16 @@ End-to-end data analytics project analyzing business KPIs using SQL, Excel, and 
 - SQL
 - Excel
 - Power BI
+- ---
+
+## 🧾 SQL Analysis
+
+Key analysis performed using SQL:
+
+- Calculated RPH (Revenue Per Hour)
+- Compared actual vs target performance
+- Categorized agents using CASE statements
+- Ranked agents using window functions
 
 ---
 
