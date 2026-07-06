@@ -1,0 +1,11 @@
+agent_id,agent_name,team_lead,join_date
+1,Rahul,TL_A,2024-01-01
+2,Sneha,TL_A,2024-02-01
+3,Sunita,TL_B,2024-03-01
+4,Amit,TL_B,2024-01-15
+5,Ravi,TL_A,2024-02-10
+6,Priya,TL_C,2024-01-20
+7,Karan,TL_C,2024-02-25
+8,Neha,TL_B,2024-03-10
+9,Ankit,TL_A,2024-01-05
+10,Pooja,TL_C,2024-02-18

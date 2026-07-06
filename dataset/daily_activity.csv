@@ -1,0 +1,11 @@
+agent_id,activity_date,report_type,reports_completed,productive_hours,meeting_hours,is_half_day,errors
+1,2026-06-01,SETT,95,7.5,0,0,0
+2,2026-06-01,TLLS,80,7.5,1,0,2
+3,2026-06-01,TAV,60,7.5,0,0,1
+4,2026-06-01,SETT,40,4,0,1,3
+5,2026-06-01,TAD,55,7.5,0.5,0,0
+6,2026-06-01,Auxilis,30,7.5,0,0,1
+7,2026-06-01,SETT,110,7.5,0,0,0
+8,2026-06-01,TLLS,70,7.5,1.5,0,2
+9,2026-06-01,Telematics,25,7.5,0,0,0
+10,2026-06-01,DSC,35,7.5,0,0,1
