@@ -1,6 +1,11 @@
 # kpi-performance-analysis
 End-to-end data analytics project analyzing business KPIs using SQL, Excel, and Power BI with interactive dashboards and actionable insights.
 ---
+## 📌 Project Overview
+
+This project focuses on analyzing agent performance using key performance indicators such as productivity (RPH), accuracy (errors), and target achievement.
+
+The objective was to identify high-performing agents, detect inefficiencies, and provide actionable insights to improve business performance.
 
 ## 📂 Project Structure
 - dataset/ → Raw data files
